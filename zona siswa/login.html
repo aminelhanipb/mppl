@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="login.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="container">
+		<div class="row content-1">
+		 <div class="col-md-6 mb-3">
+			 <img src="img.svg" class="img-fluid" alt="img">
+         </div>
+		<div class="col-md-6">
+		 <h3 class="signin-text mb-3"> Selamat Datang</h3>
+		<form>
+		 <div class="form-group">
+			<label for="email">Email</label>
+			<input type="email" name="email" class="form-control">
+		 </div>
+		 <div>
+		  <div class="form-group">
+			 <label for="password">Password</label>
+			  <input type="password" name="password" class="form-control">
+		   </div>
+		  <div class="form-group form-check">
+			 <input type="checkbox" name="checkbox" class="form-check-input" id="checkbox">
+			  <label class="form-check-label" for="checkbox">Remember me</label>
+		  </div>
+			 <button class="btn btn-secondary">Login</button>
+		 </div>
+		</form>
+	</div>
+   </div>
+
+</div>
+	
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+   
+
+    
+  </body>
+</html>
