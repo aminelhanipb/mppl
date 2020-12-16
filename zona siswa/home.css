@@ -8,18 +8,32 @@ body {
 
 }
 
+
+
 .container {
+	
 	padding-top: 25px;
 	
 	
 }
-
-.row{
-	background-color: #fff
-	
+.col-md-9{
+	border : thin;
+	border-style: groove;
+	border-radius: 15px;
 	
 }
-
+.kelas{
+	border : thin;
+	border-style: groove;
+	border-radius: 15px;
+	}
+.row{
+	background-color: #fff;
+	border : thin;
+	border-style: groove;
+	border-radius: 15px;
+	
+}
 .row-main{
 	
 	
@@ -34,6 +48,12 @@ body {
 	padding: 10px;
 	
 	
+}
+
+.colom-deskripsi-mtk {
+    h4 : 5px; 
+	font-weight: 200;
+	border: thin;
 }
 
 .card-text{
