@@ -5,7 +5,12 @@
 **Zonasiswa** merupakan sebuah sistem dibuat di untuk menciptakan sebuah sistem informasi yang baik dalam penyelenggaraan pembelajaran melalui sistem online di sekolah-sekolah.
 
 ## Ruang Lingkup Pengembangan
-Zona Siswa memberikan suatu sistem yang dikerjakan oleh dua user yaitu antara guru dan siswa. Masing masing user memiliki tugas yang bisa di jalankan. 
+- Hardware
+  intel Core i5-7200U
+  RAM 8GB
+- Software
+  Visual Studio Code
+  PhpMyAdmin
 
 ## Link PPT
 
