@@ -23,7 +23,7 @@ Dalam mengembangkan sistem informasi asrama, kelompok kami menggunakan design pa
 4. Kuis
 
 ## Developer beserta job desc
-Amin Elhan (Manajer Proyek)
-Ari Corvin (Pengembang Backend)
-Muhammad Alpha Thoriq (Pengembang Frontend)
-Rizal Fajar Bancin (Analis Sistem)
+1. Amin Elhan (Manajer Proyek)
+2. Ari Corvin (Pengembang Backend)
+3. Muhammad Alpha Thoriq (Pengembang Frontend)
+4. Rizal Fajar Bancin (Analis Sistem)
