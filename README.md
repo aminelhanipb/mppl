@@ -53,9 +53,8 @@ Dalam mengembangkan sistem informasi asrama, kelompok kami menggunakan design pa
 
 ## Model
 1. User
-2. Absensi
-3. Mata Pelajaran
-4. Kuis
+2. Student
+3. Teacher
 
 ## Developer beserta job desc
 1. Amin Elhan (Manajer Proyek)
