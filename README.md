@@ -32,6 +32,12 @@
 
 ## Activity Diagram
 
+<p align="center">
+<a>
+<img src="https://github.com/aminelhanipb/mppl/blob/master/IMG_20201111_235050.jpg" alt="ER Diagram", width=700>
+</a>
+</p>
+
 ## Tipe desain pengembangan yang digunakan (pattern/anti pattern)
 Dalam mengembangkan sistem informasi asrama, kelompok kami menggunakan design pattern MVC (Model View Controller) yang dimana sistem pengembangan aplikasi tersebut akan dipecah menjadi tiga bagian, yaitu model (database), view (tampilan/ui) dan yang terakhir controller (interaksi model dan view). Sarana yang digunakan dalam design pattern tersebut adalah framework Laravel.
 
