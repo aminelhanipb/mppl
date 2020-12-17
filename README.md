@@ -24,6 +24,12 @@
 
 ## Use Case diagram
 
+<p align="center">
+<a>
+<img src="https://github.com/aminelhanipb/mppl/blob/master/use_case.png" alt="ER Diagram", width=700>
+</a>
+</p>
+
 ## Activity Diagram
 
 ## Tipe desain pengembangan yang digunakan (pattern/anti pattern)
