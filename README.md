@@ -52,9 +52,9 @@ https://github.com/aminelhanipb/mppl/blob/master/ClassDiagram.png
 Dalam mengembangkan sistem informasi asrama, kelompok kami menggunakan design pattern MVC (Model View Controller) yang dimana sistem pengembangan aplikasi tersebut akan dipecah menjadi tiga bagian, yaitu model (database), view (tampilan/ui) dan yang terakhir controller (interaksi model dan view). Sarana yang digunakan dalam design pattern tersebut adalah framework Laravel.
 
 ## Model
-1. User
-2. Student
-3. Teacher
+1. Sitem
+2. Teacher
+3. Student
 
 ## Developer beserta job desc
 1. Amin Elhan (Manajer Proyek)
