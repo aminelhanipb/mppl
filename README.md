@@ -13,7 +13,14 @@
   PhpMyAdmin
 
 ## Link PPT
+## 
+## Entity Relationship Diagram
 
+<p align="center">
+<a>
+<img src="https://github.com/aminelhanipb/mppl/commit/e23107af105861d6ea29f27796f77d855b9f4827" alt="ER Diagram", width=700>
+</a>
+</p>
 ## Use Case diagram
 
 ## Activity Diagram
