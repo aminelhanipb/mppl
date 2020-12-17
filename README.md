@@ -13,6 +13,7 @@
   PhpMyAdmin
 
 ## Link PPT
+https://docs.google.com/presentation/d/1R-dX8SDv0Gn6wbl3c6B-YS_hI6UQfq_xrwjxOjgU5x0/edit#slide=id.ga7eb28338c_0_6
 ## 
 ## Entity Relationship Diagram
 
